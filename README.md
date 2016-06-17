@@ -8,6 +8,7 @@ Knowledge nuggets on programming, web development, plugins, workflow optimizatio
 Inspired by [Josh Branchaud's TIL repo](https://github.com/jbranchaud/til/blob/master/README.md).
 
 ## bash
+- [cd to previous directory](bash/cd-to-previous-directory.md)
 
 ## git
 

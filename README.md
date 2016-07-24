@@ -14,7 +14,7 @@ Inspired by [Josh Branchaud's TIL repo](https://github.com/jbranchaud/til/blob/m
 
 ## HTML5
 
-- [set <base> tag to shorten hrefs](html5/set-base-tag-to-shorten-hrefs.md)
+- [set `<base>` tag to shorten hrefs](html5/set-base-tag-to-shorten-hrefs.md)
 
 ## JavaScript
 
